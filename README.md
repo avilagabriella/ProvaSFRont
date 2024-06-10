@@ -17,8 +17,8 @@
 
 ## Como testar:
 
-1  - Clone este repositorio
-2 - Acesse a pagina index.html
-3 - clique em OPEN LIVE SERVER  
+1. Clone este repositorio
+2. Acesse a pagina index.html
+3. clique em OPEN LIVE SERVER  
 
 
