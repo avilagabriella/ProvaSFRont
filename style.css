@@ -1,0 +1,68 @@
+body {
+    background-color: #000000;
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    width: 250px; /* Definindo a largura do card */
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    height: 150px; /* Definindo a altura da imagem */
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    color: #343a40;
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    color: #6c757d;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #717375;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #db1717;
+}
+
+h1 {
+    color: #ffffff;
+    
+}
+
+p {
+    color: #ffffff;
+    font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+    font-size: 1rem;
+    margin-right: 100px;
+    height: 150px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #db1717;
+}
