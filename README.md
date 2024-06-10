@@ -11,9 +11,9 @@
 
 ## Linguagens: 
 
--HTML
--CSS
--JAVASCRIPT  
+- HTML
+- CSS
+- JAVASCRIPT  
 
 ## Como testar:
 
